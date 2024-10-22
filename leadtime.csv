@@ -1,4 +1,4 @@
-,CD ID,CD pipeline Name,pipeline_id,pipeline_name,Result,final_leadtime,Start time,Finish Time
+﻿,CD ID,CD pipeline Name,pipeline_id,pipeline_name,Result,final_leadtime,Start time,Finish Time
 0,42637,medad-cmp-qa,42628,medad_cmp_docker,failed,1 days 16:01:50.098364900,2024-10-15 14:20:30.845000200+00:00,2024-10-17 06:22:20.943365100+00:00
 1,42666,medad-tmp-qa,42578,medad_tmp_docker,failed,0 days 21:08:51.847061200,2024-10-15 11:44:08.275004400+00:00,2024-10-16 08:53:00.122065600+00:00
 2,42257,medad-cmp-qa,42255,medad_cmp_docker,failed,2 days 03:58:43.732642100,2024-10-10 13:26:07.082280100+00:00,2024-10-12 17:24:50.814922200+00:00
