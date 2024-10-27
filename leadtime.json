@@ -1,0 +1,102 @@
+[
+    {
+        "CD ID": 41858,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 41853,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "15 days 04:25:11.514249100",
+        "Start time": "2024-10-08 07:43:14.243059600+00:00",
+        "Finish Time": "2024-10-23 12:08:25.757308700+00:00"
+    },
+    {
+        "CD ID": 41831,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 41828,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "15 days 20:15:35.590797",
+        "Start time": "2024-10-07 15:52:49.056167300+00:00",
+        "Finish Time": "2024-10-23 12:08:24.646964300+00:00"
+    },
+    {
+        "CD ID": 41824,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 41816,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "15 days 21:11:29.173708400",
+        "Start time": "2024-10-07 14:56:49.640045200+00:00",
+        "Finish Time": "2024-10-23 12:08:18.813753600+00:00"
+    },
+    {
+        "CD ID": 41809,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 41794,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "15 days 23:07:28.130745800",
+        "Start time": "2024-10-07 13:00:43.098064400+00:00",
+        "Finish Time": "2024-10-23 12:08:11.228810200+00:00"
+    },
+    {
+        "CD ID": 42363,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 42357,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "9 days 23:21:08.913118200",
+        "Start time": "2024-10-13 12:46:56.748041600+00:00",
+        "Finish Time": "2024-10-23 12:08:05.661159800+00:00"
+    },
+    {
+        "CD ID": 42118,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 42114,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "13 days 03:28:41.969090700",
+        "Start time": "2024-10-10 08:39:17.733338500+00:00",
+        "Finish Time": "2024-10-23 12:07:59.702429200+00:00"
+    },
+    {
+        "CD ID": 42597,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 42584,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "8 days 00:06:12.637687900",
+        "Start time": "2024-10-15 12:01:45.469413800+00:00",
+        "Finish Time": "2024-10-23 12:07:58.107101700+00:00"
+    },
+    {
+        "CD ID": 41849,
+        "CD pipeline Name": "medad-iep-qa",
+        "pipeline_id": 41834,
+        "pipeline_name": "medad_iep_docker CI",
+        "Result": "failed",
+        "final_leadtime": "15 days 19:42:45.982150900",
+        "Start time": "2024-10-07 16:25:06.963719700+00:00",
+        "Finish Time": "2024-10-23 12:07:52.945870600+00:00"
+    },
+    {
+        "CD ID": 42789,
+        "CD pipeline Name": "medad-tmp-qa",
+        "pipeline_id": 42777,
+        "pipeline_name": "medad_tmp_docker",
+        "Result": "succeeded",
+        "final_leadtime": "0 days 05:38:21.825558100",
+        "Start time": "2024-10-17 08:34:36.428579400+00:00",
+        "Finish Time": "2024-10-17 14:12:58.254137500+00:00"
+    },
+    {
+        "CD ID": 42637,
+        "CD pipeline Name": "medad-cmp-qa",
+        "pipeline_id": 42628,
+        "pipeline_name": "medad_cmp_docker",
+        "Result": "failed",
+        "final_leadtime": "1 days 16:01:50.098364900",
+        "Start time": "2024-10-15 14:20:30.845000200+00:00",
+        "Finish Time": "2024-10-17 06:22:20.943365100+00:00"
+    }
+]
